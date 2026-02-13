@@ -5,6 +5,7 @@ Built with Vite, React Query, MUI, TailwindCSS, and TheCatAPI.
 
 ---
 
+
 ## **Setup**
 
 1. **Install dependencies:**
